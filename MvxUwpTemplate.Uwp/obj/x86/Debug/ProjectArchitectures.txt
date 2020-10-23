@@ -1,0 +1,1 @@
+D:\Documents\Avalanche\MvvmCross\MvxUwpTemplate\MvxUwpTemplate.Uwp\MvxUwpTemplate.Uwp.csproj;x86

@@ -1,0 +1,8 @@
+D:\Documents\Avalanche\MvvmCross\MvxUwpTemplate\MvxUwpTemplate.Core\bin\Debug\netstandard2.0\MvxUwpTemplate.Core.deps.json
+D:\Documents\Avalanche\MvvmCross\MvxUwpTemplate\MvxUwpTemplate.Core\bin\Debug\netstandard2.0\MvxUwpTemplate.Core.dll
+D:\Documents\Avalanche\MvvmCross\MvxUwpTemplate\MvxUwpTemplate.Core\bin\Debug\netstandard2.0\MvxUwpTemplate.Core.pdb
+D:\Documents\Avalanche\MvvmCross\MvxUwpTemplate\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.csproj.CoreCompileInputs.cache
+D:\Documents\Avalanche\MvvmCross\MvxUwpTemplate\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.AssemblyInfoInputs.cache
+D:\Documents\Avalanche\MvvmCross\MvxUwpTemplate\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.AssemblyInfo.cs
+D:\Documents\Avalanche\MvvmCross\MvxUwpTemplate\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.dll
+D:\Documents\Avalanche\MvvmCross\MvxUwpTemplate\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.pdb

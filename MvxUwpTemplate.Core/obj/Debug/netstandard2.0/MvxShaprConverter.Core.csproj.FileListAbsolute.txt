@@ -1,0 +1,9 @@
+C:\Users\tarek\Desktop\Shapr3D\MvxUwpTemplate\MvxUwpTemplate.Core\MvxUwpTemplate.Core\bin\Debug\netstandard2.0\MvxUwpTemplate.Core.deps.json
+C:\Users\tarek\Desktop\Shapr3D\MvxUwpTemplate\MvxUwpTemplate.Core\MvxUwpTemplate.Core\bin\Debug\netstandard2.0\MvxUwpTemplate.Core.dll
+C:\Users\tarek\Desktop\Shapr3D\MvxUwpTemplate\MvxUwpTemplate.Core\MvxUwpTemplate.Core\bin\Debug\netstandard2.0\MvxUwpTemplate.Core.pdb
+C:\Users\tarek\Desktop\Shapr3D\MvxUwpTemplate\MvxUwpTemplate.Core\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.csproj.CoreCompileInputs.cache
+C:\Users\tarek\Desktop\Shapr3D\MvxUwpTemplate\MvxUwpTemplate.Core\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.AssemblyInfoInputs.cache
+C:\Users\tarek\Desktop\Shapr3D\MvxUwpTemplate\MvxUwpTemplate.Core\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.AssemblyInfo.cs
+C:\Users\tarek\Desktop\Shapr3D\MvxUwpTemplate\MvxUwpTemplate.Core\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.dll
+C:\Users\tarek\Desktop\Shapr3D\MvxUwpTemplate\MvxUwpTemplate.Core\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.pdb
+C:\Users\tarek\Desktop\Shapr3D\MvxUwpTemplate\MvxUwpTemplate.Core\MvxUwpTemplate.Core\obj\Debug\netstandard2.0\MvxUwpTemplate.Core.csprojAssemblyReference.cache
